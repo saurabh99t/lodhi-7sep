@@ -123,7 +123,7 @@ margin: 50px 50px;
 button.active-x13 {
   width: 40px;
   border-radius: 50px;
-  background: #00ffd5;
+  background: black;
 }
 
 @media (max-width: 800px) {

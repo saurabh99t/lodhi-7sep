@@ -10,6 +10,9 @@
     padding: 20px;
     box-sizing: border-box;
     color: #fff;
+    justify-content: center;
+    align-items: center;
+    
   }
   .section-1-x3 {
     background-color: #ffffff;

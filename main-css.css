@@ -39,7 +39,7 @@ body {
 /*  inner section */
 .inner-sec1-image img{
     width: 400px;
-   margin-top: 60px;
+   margin-top: 20px;
    animation: translateUpDown 5s linear infinite;
 }
 
@@ -66,7 +66,7 @@ body {
 
 .outer-container-x3 {
     width: 100%;
-    min-height: 90vh;
+    /* min-height: 90vh; */
 }
 
 .section-2-x3 h2{
@@ -128,7 +128,7 @@ padding: 2px;
 
 
 .heading-x5 h1 {
-    border-bottom: 2px solid rgb(0, 142, 142);
+    border-bottom: 2px solid yellow;
     display: inline;
 }
 
@@ -153,7 +153,7 @@ padding: 2px;
 
 .banner p {
     width: 100vw;
-    background-color: cyan;
+    background-color: yellow;
     padding: 20px;
 }
 
@@ -164,7 +164,8 @@ padding: 2px;
 
 .h1-div {
     margin-top: 25px;
-    background-color: rgba(0, 255, 255, 0.311);
+    background-color: grey;
+    color: white;
     padding: 10px;
 }
 
@@ -174,7 +175,7 @@ padding: 2px;
 
 
 .btn-prod button{
-color: rgb(0, 255, 234);
+color: darkgoldenrod;
 background-color: black;
 padding: 10px 20px;
 margin-top: 30px;
@@ -191,7 +192,7 @@ border-radius: 5px;
 font-size: 15px;
 /* font-weight: 600;  */
 padding-right: 10px;
-color: rgb(0, 112, 112);
+color: darkgoldenrod;
 /* border-bottom: 2px solid black; */
 margin-bottom: 2px;
 
@@ -209,7 +210,7 @@ margin-bottom: 2px;
 
 #submit-btn-map {
     background-color: rgb(0, 0, 0);
-    color: cyan;
+    color:yellow;
 
 }
 
@@ -238,7 +239,7 @@ margin-bottom: 2px;
 
 
 #client-heading {
-    border-bottom: 2px solid rgb(0, 142, 142);
+    border-bottom: 2px solid yellow;
     display: inline;
 }
 
