@@ -11,6 +11,6 @@
 
   @media (max-width: 768px) {
     .banner {
-      max-width: 90%;
+      max-width: 100%;
     }
   }
