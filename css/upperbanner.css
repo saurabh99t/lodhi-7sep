@@ -1,0 +1,27 @@
+
+
+  .main-up-banner {
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+  .upper-banner1 {
+    width: 70%;
+    background-color: rgb(11, 11, 11);
+    height: 50px;
+    color: white;
+  }
+
+
+  .upper-banner2 {
+    width: 30%;
+    background-color: rgb(0, 255, 191);
+    height: 50px;
+    
+  } 
+
+
+   .upper-banner2 h1{
+    float: right;
+   }
